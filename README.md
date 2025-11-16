@@ -8,10 +8,10 @@
 
 | Level | Description |
 |-------|-------------|
-| [Level 1: Programming Languages](https://github.com/Ahmed-Saleh-Hanafi/my-portfolio/blob/main/problem-solving/level-1-Programming%20Languages/README.md)     | Basic syntax, loops, arrays, strings, conditionals, Bit Manipulation, Math,basic OOP  |
-| [Level 2: Data Structures and Algorithms](https://github.com/Ahmed-Saleh-Hanafi/my-portfolio/blob/main/problem-solving/level-2-Data-Structures-and-Algorithms/README.md) | Linear Data Structures, Non-linear Data Structures, Basic Algorithms, Basic Graph Theory|
-| [Level 3: Intermediate Data Structures and Algorithms](./level-3-advanced)     | Graphs, dynamic programming, greedy, backtracking |
-| [Level 4: Advanced](./level-4-expert)         | Number Theory, Combinatorics, Algebra, Geometry, Probability, Graph Theory, Greedy, Dynamic Programming, Implementation, Binary Search, Sorting, Breadth First Search, Depth First Search, Backtracking, String |
+| [Level 1: Programming Languages](https://github.com/Ahmed-Saleh-Hanaf/problem-solving/blob/main/level-1/README.md)     | Variables, Data Types, Operators, Loops, Conditionals, Arrays, Strings, Functions, Recursion, Simple Math, Complexity Basics, OOP  |
+| [Level 2: Data Structures and Algorithms](https://github.com/Ahmed-Saleh-Hanaf/problem-solving/blob/main/level-2/README.md) | Array, Dynamic array, Linkedlist, Stack, Queue, Dequeue, Priority_queue, Set, Map, Unordered_set, Unordered_map, Sorting, Binary search, Frequency array, Prefix, Sufix, Cooedinate compression technigue, Two pointers, Sliding Window, Greedy, Bit manipulation, Meet in middle|
+| [Level 3: Intermediate Data Structures and Algorithms](https://github.com/Ahmed-Saleh-Hanaf/problem-solving/blob/main/level-3/README.md)     | Recursion, Backtracking, dynamic programming, greedy,  Graphs, Ternary search|
+| [Level 4: Advanced](https://github.com/Ahmed-Saleh-Hanaf/problem-solving/blob/main/level-4/README.md)         | Number Theory, Combinatorics, Algebra, Geometry, Probability, Advanced Graph Theory, Greedy, Range quuery ,String processing |
 
 ---
 
